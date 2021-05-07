@@ -18,6 +18,8 @@ injuries <- vroom::vroom("injuries.tsv.gz")
 products <- vroom::vroom("products.tsv")
 population <- vroom::vroom("population.tsv")
 
+#Hi!
+
 #------------
 #Set up elements that will be used inside the Shiny app UI and server
 
